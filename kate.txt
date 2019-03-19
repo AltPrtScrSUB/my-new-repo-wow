@@ -6,3 +6,8 @@ change
 
 i am on branch kate-new-branch now
 
+*added this feature from branch "style"
+
+
+and one more change to see how merging deal with it
+
