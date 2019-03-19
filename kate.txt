@@ -1,6 +1,8 @@
 change
 
 
-add this str...
+add this str..
 
-and then remove
+
+add new feature
+
