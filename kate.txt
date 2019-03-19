@@ -1,1 +1,8 @@
-and now I am on style branch
+and now I am on style branch *merged with master branch
+
+*with added feature from kate-new-branch as follows:
+
+change
+
+i am on branch kate-new-branch now
+
