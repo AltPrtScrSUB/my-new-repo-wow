@@ -1,1 +1,4 @@
 and now I am on style branch
+
+
+and one more change to see how merging deal with it
