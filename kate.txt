@@ -6,3 +6,4 @@ add this str..
 
 add new feature
 
+and now I am on master branch
