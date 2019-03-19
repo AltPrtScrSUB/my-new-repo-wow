@@ -1,13 +1,2 @@
-and now I am on style branch *merged with master branch
-
-*with added feature from kate-new-branch as follows:
-
-change
-
-i am on branch kate-new-branch now
-
-*added this feature from branch "style"
-
-
-and one more change to see how merging deal with it
+completely different information
 
